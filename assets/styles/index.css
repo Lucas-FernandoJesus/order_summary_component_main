@@ -1,4 +1,5 @@
 @import url("./var.css");
+@import url("./media.css");
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
 
 *{
@@ -16,7 +17,6 @@ ul{
   list-style-type: none;
   gap: 20px;
 }
-
 body{
   width: 100vw;
   height: 100vh;
@@ -31,7 +31,6 @@ body{
   text-align: center;
 }
 .content{
-  width: 20vw;
   background-color: var(--color-white);
   border-radius: 20px 20px 20px 20px;
   align-items: center;
@@ -44,7 +43,6 @@ body{
   align-items: center;
 }
 .womem{
-  width: 20vw;
   border-radius: 20px 20px 0px 0px;
 }
 h1{
@@ -53,7 +51,6 @@ h1{
   padding: 18px;
 }
 p{
-  max-width: 18vw;
   font-weight: 500;
   align-items: center;
   line-height: 1.5;
@@ -70,7 +67,6 @@ p{
 }
 .change{
   font-weight: 700;
-  margin-left: 36%;
   text-decoration: underline;
   cursor: pointer;
 }
@@ -86,7 +82,6 @@ p{
   margin-top: 10%;
 }
 .btn_proceed{
-  width: 16vw;
   font-weight: 700;
   background-color: var(--color-blue);
   color: var(--color-white);

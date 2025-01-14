@@ -1,0 +1,154 @@
+@media (min-width: 0px) and (max-width: 375px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .information{
+    width: 80vw;
+  }
+  .womem{
+    width: 80vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 70vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 376px) and (max-width: 500px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+  .information{
+    width: 80vw;
+  }
+  .womem{
+    width: 80vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 70vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 501px) and (max-width: 640px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .information{
+    width: 80vw;
+  }
+  .womem{
+    width: 80vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 70vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 641px) and (max-width: 900px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .information{
+    width: 60vw;
+  }
+  .womem{
+    width: 60vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 50vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 901px) and (max-width: 1200px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .information{
+    width: 45vw;
+  }
+  .womem{
+    width: 45vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 35vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 1201px) and (max-width: 1440px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .information{
+    width: 30vw;
+  }
+  .womem{
+    width: 30vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 25vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
+@media (min-width: 1441px){
+  body{
+    background-image: url("../images/pattern-background-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .information{
+    width: 20vw;
+  }
+  .womem{
+    width: 20vw;
+  }
+  .change{
+    margin-left: 10%;
+  }
+  .btn_proceed{
+    width: 15vw;
+  }
+  p{
+    padding: 6%;
+  }
+}
